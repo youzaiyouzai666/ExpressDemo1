@@ -4,5 +4,5 @@
 console.log(module.exports);
 
 exports= function(){
-    console.log('dsfa')
+    console.log('dsfa');
 };
