@@ -3,6 +3,6 @@
  */
 console.log(module.exports);
 
-exports= function(){
+exports = function () {
     console.log('test');
 };
